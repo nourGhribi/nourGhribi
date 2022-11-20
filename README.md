@@ -1,7 +1,15 @@
-- 👋 Hello, I’m @nourGhribi!Data Science student at Ecole Polytechnique Fédérale de Lausanne
+## 👋 Hello, I’m @nourGhribi!
+
+- Data Science student at Ecole Polytechnique Fédérale de Lausanne
 - 👀 I’m currently doing my Master Thesis 
 - 🌱 I’m currently learning about Multi Layer Graphs
 - 📫 How to reach me: nour.ghribi.ng(at)gmail.com
+
+Languages and Tools:
+
+git java  linux  mysql python 
+
+Connect with me on LinkedIn:
 
 <!---
 nourGhribi/nourGhribi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
