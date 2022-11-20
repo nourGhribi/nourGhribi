@@ -7,9 +7,10 @@
 
 Languages and Tools:
 
-git java  linux  mysql python 
+git java python scala linux  mysql
 
 Connect with me on LinkedIn:
+[LinkedIn](https://www.linkedin.com/in/nour-ghribi/)
 
 <!---
 nourGhribi/nourGhribi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
