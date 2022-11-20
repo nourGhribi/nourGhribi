@@ -1,4 +1,4 @@
-## 👋 Hello, I’m @nourGhribi!
+## 👋 Hello, I’m Nour Ghribi!
 
 - Data Science student at Ecole Polytechnique Fédérale de Lausanne
 - 👀 I’m currently doing my Master Thesis 
@@ -7,10 +7,13 @@
 
 Languages and Tools:
 
-git java python scala linux  mysql
+[![My Skills](https://skills.thijs.gg/icons?i=java,scala,python,mysql,docker,git,linux)](https://skills.thijs.gg)
+
 
 Connect with me on LinkedIn:
-[LinkedIn](https://www.linkedin.com/in/nour-ghribi/)
+
+
+[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
 
 <!---
 nourGhribi/nourGhribi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
