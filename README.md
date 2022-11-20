@@ -5,10 +5,20 @@
 - 🌱 I’m currently learning about Multi Layer Graphs
 - 📫 How to reach me: nour.ghribi.ng(at)gmail.com
 
-Languages and Tools:
+Languages and Tools 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,scala,python,mysql,docker,git,linux)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,scala,python,c,mysql,docker,pytorch,tensorflow,github,gitlab,linux,gcp,bash&perline=6)]()
 
+IDE
+
+[![IDE](https://skills.thijs.gg/icons?i=eclipse,idea,vscode,vim&perline=6)]()
+
+
+<!---
+Design and art
+
+[![Design](https://skills.thijs.gg/icons?i=ai,blender&perline=6)]()
+--->
 
 Connect with me on LinkedIn:
 
