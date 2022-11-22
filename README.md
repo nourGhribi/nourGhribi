@@ -1,8 +1,7 @@
 ## 👋 Hello, I’m Nour Ghribi!
 
 - Data Science student at Ecole Polytechnique Fédérale de Lausanne
-- 👀 I’m currently doing my Master Thesis 
-- 🌱 I’m currently learning about Multi Layer Graphs
+- 👀 I’m currently doing my Master Thesis at Compagnie Financiere Tradition
 - 📫 How to reach me: nour.ghribi.ng(at)gmail.com
 
 Languages and Tools 
