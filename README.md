@@ -6,11 +6,11 @@
 
 Languages and Tools 
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,scala,python,c,mysql,docker,pytorch,tensorflow,github,gitlab,linux,gcp,bash&perline=6)]()
+[![Skills](https://skills.thijs.gg/icons?i=java,scala,python,c,mysql,docker,pytorch,tensorflow,github,gitlab,linux,gcp,bash&perline=6)](#)
 
 IDE
 
-[![IDE](https://skills.thijs.gg/icons?i=eclipse,idea,vscode,vim&perline=6)]()
+[![IDE](https://skills.thijs.gg/icons?i=eclipse,idea,vscode,vim&perline=6)](#)
 
 
 <!---
