@@ -1,7 +1,6 @@
 ## 👋 Hello, I’m Nour Ghribi!
 
-- Data Science student at Ecole Polytechnique Fédérale de Lausanne
-- 👀 I’m currently doing my Master Thesis at Compagnie Financiere Tradition
+- I am a Data Science graduate from Ecole Polytechnique Fédérale de Lausanne
 - 📫 How to reach me: nour.ghribi.ng(at)gmail.com
 
 Languages and Tools 
