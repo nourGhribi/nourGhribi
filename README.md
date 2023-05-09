@@ -7,9 +7,7 @@
 📫 Don't hesitate to reach me or to connect with me on LinkedIn:
 
 [![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
-
 [![Twitter](https://skills.thijs.gg/icons?i=twitter)]([https://www.linkedin.com/in/nour-ghribi/](https://twitter.com/ghribi_nour_))
-
 [![Email](https://skills.thijs.gg/icons?i=email)](mailto:nour.ghribi.ng@gmail.com)
 
 Languages and Tools
