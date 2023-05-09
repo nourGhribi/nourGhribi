@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Nour Ghribi!
+## 👋 Hello, my name is Nour Ghribi!
 
 - I graduated with a M.Sc. Data Science from Ecole Polytechnique Fédérale de Lausanne, with a minor in Management of Technology and Enrepreneurship.
 - For the last year of my Masters, I interned at Compagnie Financière Tradition, Where I have worked on multiple pilot Data Science projects in their Data Science initiative.
