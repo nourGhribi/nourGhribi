@@ -4,11 +4,11 @@
 - For the last year of my Masters, I interned at Compagnie Financière Tradition, Where I have worked on multiple pilot Data Science projects in their Data Science initiative.
 - Curious by Nature and with a creative mindset, I like to discover more about emerging technologies and am fond of design and modern art forms.
 
-📫 Don't hesitate to reach me or to connect with me on LinkedIn:
+📫 Don't hesitate to reach me [nour.ghribi.ng@gmail.com](mailto:nour.ghribi.ng@gmail.com) or to connect with me:
 
 [![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
 [![Twitter](https://skills.thijs.gg/icons?i=twitter)]([https://www.linkedin.com/in/nour-ghribi/](https://twitter.com/ghribi_nour_))
-[![Email](https://skills.thijs.gg/icons?i=email)](mailto:nour.ghribi.ng@gmail.com)
+
 
 Languages and Tools
 
