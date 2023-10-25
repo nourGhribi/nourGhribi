@@ -12,7 +12,7 @@
 
 Languages and Tools
 
-[![Skills](https://skills.thijs.gg/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,HTML,github,gitlab,regex,linux,gcp,bash,latex&perline=7)](#)
+[![Skills](https://skills.thijs.gg/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,html,github,gitlab,regex,linux,gcp,bash,latex&perline=8)](#)
 
 IDE
 
