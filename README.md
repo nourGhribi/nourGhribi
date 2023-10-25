@@ -12,7 +12,7 @@
 
 Languages and Tools
 
-[![Skills](https://skills.thijs.gg/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,github,gitlab,linux,gcp,bash,latex&perline=7)](#)
+[![Skills](https://skills.thijs.gg/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,HTML,github,gitlab,regex,linux,gcp,bash,latex&perline=7)](#)
 
 IDE
 
@@ -20,7 +20,7 @@ IDE
 
 Design and art
 
-[![Design](https://skills.thijs.gg/icons?i=ai,ps,blender&perline=6)]()
+[![Design](https://skills.thijs.gg/icons?i=ai,aps,blender&perline=6)](#)
 
 <!---
 nourGhribi/nourGhribi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
