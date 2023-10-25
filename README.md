@@ -7,7 +7,7 @@
 📫 Don't hesitate to reach me [nour.ghribi.ng@gmail.com](mailto:nour.ghribi.ng@gmail.com) or to connect with me:
 
 
-[![LinkedIn](https://skills.thijs.gg/icons?i=globe)](https://nourghribi.github.io/)
+[![globe](<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAnBJREFUaEPtmWtOxDAMhLMnA04GnAw4GWikBgUztsdJCqq0/FnUzWM+e5I62Vu7+N/t4vrbHeC/M7gzA48HzPMA1Z+9H88+js+XXeA7ACDmobXWxaraAAWgJZgVAEw8RlsVztq9zoLMACDSbytqg75lkCpAJeqjGACrFitBVAAi8fCzFWjH/ixkTYZQATzxEP7UWrPimABmPfTFc7aWJAgFwBOPyQHAvvfGtVbqAfDmSCEygEw8XGFFRZOyLHQN3ubQA0UdmAEw344DRoI8y1vgbDyM4+qMAFj0bTRsmzTlh+fHbbjbqAOzoLjjRgDKwrRtwnQPKcn6sW2XavUA1IVphWSW7AyRjXobJYCut5SFaVOt2MezibUR2tkgsjYugBLZGf9XANA2sxoFkMhJhCoZYOKY/VKrsU5qZNPBk9JhJsu/bDRFfQhTBEQMSgDsOpsCKNRgpzeVACpV4+mKyQQ/XMMsdHmAyuHjrzMgWUhZXKwKVcuIytt4yyL29ncV1MuSsoulWzpbAyn1cLcznqSqGVAA0pJGAfDq8bNrIeltrR79lDMuLbYc/6TWWC3mzi6nFYClcpqlj0U4rRadDGT91ACG1+vKkTJdZAQgE7ftSMmygGfRIVxZB5F9vJuJqUM9xCpXHdX3gbd9enOF5wzlDJtdOnmXVcz+XvSnxIf3LWb2CAK2sbfV7KXmeRtTnXq12FkqN9PKjhUVgvLxVLHQOFEFYhQx2y+tdqsAGLAiJhVgGlTrqaWfWXeCyJaxEZnJgB0DIJf8kc/bJvEcQP09gs/+Myv+R7Tts6rVvtvvyMD05Ds63gF2RHFljMtn4AvzRNMxidUu2AAAAABJRU5ErkJggg=="/>)](https://nourghribi.github.io/)
 [![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
 [![Twitter](https://skills.thijs.gg/icons?i=twitter)]([https://www.linkedin.com/in/nour-ghribi/](https://twitter.com/ghribi_nour_))
 
