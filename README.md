@@ -1,12 +1,13 @@
 ## 👋 Hello, my name is Nour Ghribi!
 
-- I graduated with a M.Sc. Data Science from Ecole Polytechnique Fédérale de Lausanne, with a minor in Management of Technology and Enrepreneurship.
-- For the last year of my Masters, I interned at Compagnie Financière Tradition, Where I have worked on multiple pilot projects in their Data science initiative.
+- I graduated from Ecole Polytechnique Fédérale de Lausanne earning a M.Sc. Data Science with a minor in Management of Technology and Entrepreneurship.
+- For the last year of my Master's, I interned at Compagnie Financière Tradition, Where I have worked on multiple pilot projects in their Data science initiative.
 - Curious by Nature and with a creative mindset, I like to discover more about emerging technologies and am fond of design and modern art forms.
 
-Portolio: [nourghribi.github.io](https://nourghribi.github.io/)
+Portfolio: [nourghribi.github.io](https://nourghribi.github.io/)
 
 📫 Don't hesitate to reach me [nour.ghribi.ng@gmail.com](mailto:nour.ghribi.ng@gmail.com) or to connect with me:
+
 [![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
 [![Twitter](https://skills.thijs.gg/icons?i=twitter)]([https://www.linkedin.com/in/nour-ghribi/](https://twitter.com/ghribi_nour_))
 
