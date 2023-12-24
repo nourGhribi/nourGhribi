@@ -1,5 +1,7 @@
 ## 👋 Hello, my name is Nour Ghribi!
 
+I am a Data Scientist with expertise in analytics solutions and dashboard development, adept at translating complex data into actionable business insights. Skilled in bridging technical and business domains, agile adaptability, and promoting data-driven decision-making. Fluent in English, and French, poised to effectively contribute in a dynamic, multilingual environment.
+
 - I graduated from Ecole Polytechnique Fédérale de Lausanne earning a M.Sc. Data Science with a minor in Management of Technology and Entrepreneurship.
 - For the last year of my Master's, I interned at Compagnie Financière Tradition, Where I have worked on multiple pilot projects in their Data science initiative.
 - Curious by Nature and with a creative mindset, I like to discover more about emerging technologies and am fond of design and modern art forms.
