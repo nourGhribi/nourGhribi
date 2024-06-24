@@ -16,15 +16,15 @@ Portfolio: [nourghribi.github.io](https://nourghribi.github.io/)
 
 Languages and Tools
 
-[![Skills](https://skills.thijs.gg/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,html,github,gitlab,regex,linux,gcp,bash,latex&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,html,github,gitlab,regex,linux,gcp,bash,latex&perline=8)](#)
 
 IDE
 
-[![IDE](https://skills.thijs.gg/icons?i=eclipse,idea,vscode,vim&perline=6)](#)
+[![IDE](https://skillicons.dev/icons?i=eclipse,idea,vscode,vim&perline=6)](#)
 
 Design and art
 
-[![Design](https://skills.thijs.gg/icons?i=ai,ps,blender&perline=6)](#)
+[![Design](https://skillicons.dev/icons?i=ai,ps,blender&perline=6)](#)
 
 <!---
 nourGhribi/nourGhribi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
