@@ -10,7 +10,7 @@ Portfolio: [nourghribi.github.io](https://nourghribi.github.io/)
 
 📫 Don't hesitate to reach me [nour.ghribi.ng@gmail.com](mailto:nour.ghribi.ng@gmail.com) or to connect with me:
 
-[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nour-ghribi/)
 [![Twitter](https://skills.thijs.gg/icons?i=twitter)]([https://www.linkedin.com/in/nour-ghribi/](https://twitter.com/ghribi_nour_))
 
 
