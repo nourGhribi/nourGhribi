@@ -1,10 +1,9 @@
 ## 👋 Hello, my name is Nour Ghribi!
 
-I am a Data Scientist with expertise in analytics solutions and dashboard development, adept at translating complex data into actionable business insights. Skilled in bridging technical and business domains, agile adaptability, and promoting data-driven decision-making. Fluent in English, and French, poised to effectively contribute in a dynamic, multilingual environment.
 
-- I graduated from Ecole Polytechnique Fédérale de Lausanne earning a M.Sc. Data Science with a minor in Management of Technology and Entrepreneurship.
-- For the last year of my Master's, I interned at Compagnie Financière Tradition, Where I have worked on multiple pilot projects in their Data science initiative.
-- Curious by Nature and with a creative mindset, I like to discover more about emerging technologies and am fond of design and modern art forms.
+I am a Data Scientist with expertise in analytics solutions, dashboard development, and translating complex data into actionable insights. Skilled in bridging technical and business domains, I promote data-driven decision-making with agile adaptability. Recently, I upskilled in Generative AI and LLMs, enhancing my ability to apply advanced data science techniques.
+
+I hold an M.Sc. in Data Science with a minor in Management of Technology and Entrepreneurship from EPFL, where I interned at Compagnie Financière Tradition, contributing to their Data Science initiative. Fluent in English and French, I thrive in dynamic, multilingual environments. Naturally curious and creative, I am passionate about emerging technologies, design, and modern art forms.
 
 Portfolio: [nourghribi.github.io](https://nourghribi.github.io/)
 
