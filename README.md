@@ -15,7 +15,7 @@ Portfolio: [nourghribi.github.io](https://nourghribi.github.io/)
 
 Languages and Tools
 
-[![Skills](https://skillicons.dev/icons?i=python,scala,c,java,mysql,docker,pytorch,tensorflow,html,github,gitlab,regex,linux,gcp,aws,bash,latex&perline=8)](#)
+[![Skills](https://skillicons.dev/icons?i=python,scala,java,mysql,docker,pytorch,tensorflow,html,github,gitlab,regex,linux,gcp,aws,bash,latex&perline=8)](#)
 
 IDE
 
