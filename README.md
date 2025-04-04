@@ -3,6 +3,8 @@
 
 I am a Data Scientist with expertise in analytics solutions, dashboard development, and translating complex data into actionable insights. Skilled in bridging technical and business domains, I promote data-driven decision-making with agile adaptability. Recently, I upskilled in Generative AI and LLMs, enhancing my ability to apply advanced data science techniques.
 
+At [Effixis](https://effixis.ch/), I help implement GenAI solutions to meet growing business needs and keep industries up-to-date to modern technologies.
+
 I hold an M.Sc. in Data Science with a minor in Management of Technology and Entrepreneurship from EPFL, where I interned at Compagnie Financière Tradition, contributing to their Data Science initiative. Fluent in English and French, I thrive in dynamic, multilingual environments. Naturally curious and creative, I am passionate about emerging technologies, design, and modern art forms.
 
 Portfolio: [nourghribi.github.io](https://nourghribi.github.io/)
