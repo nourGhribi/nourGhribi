@@ -1,7 +1,7 @@
 ## 👋 Hello, my name is Nour Ghribi!
 
 
-I am a Data Scientist with expertise in analytics solutions, dashboard development, and translating complex data into actionable insights. Skilled in bridging technical and business domains, I promote data-driven decision-making with agile adaptability. Recently, I upskilled in Generative AI and LLMs, enhancing my ability to apply advanced data science techniques.
+I am a Data Scientist with expertise in generative AI and LLMs, analytics solutions, dashboard development, and software development. Skilled in bridging technical and business domains, I promote data-driven decision-making with adaptability.
 
 At [Effixis](https://effixis.ch/), I contribute to the design and deployment of Generative AI solutions that address evolving business challenges and drive technological modernization across industries.
 
