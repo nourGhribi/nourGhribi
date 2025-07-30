@@ -21,7 +21,7 @@ Languages and Tools
 
 IDE
 
-[![IDE](https://skillicons.dev/icons?i=eclipse,idea,vscode,vim&perline=6)](#)
+[![IDE](https://skillicons.dev/icons?i=vscode,idea,vim&perline=6)](#)
 
 Design and art
 
